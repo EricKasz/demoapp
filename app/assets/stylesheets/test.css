@@ -1,0 +1,9 @@
+h3 {
+    color: red;
+    text-align: center;
+}
+
+.dark-mode {
+    background-color: black;
+    color: #e1feff;
+}
